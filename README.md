@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-Web Developer / IT architect / Tech evangelist /  Djangonaut
-------------------------------------------------------------
+### Web Developer / IT architect / Tech evangelist /  Djangonaut
 
 I love to work with Django. 🐎
 
