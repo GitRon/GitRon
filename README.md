@@ -5,7 +5,7 @@
 I love to work with Django. 🐎
 
 * 🌍  I'm based in Cologne, Germany
-* 🖥️  I'm working at [Ambient Digital](https://ambient.digital/).
+* 🖥️  I'm working at [Beyonder GmbH](https://beyonder.de/).
 
 ### Socials
 
